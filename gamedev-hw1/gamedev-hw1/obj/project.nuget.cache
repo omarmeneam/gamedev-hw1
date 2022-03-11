@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rztxmouwXlO9LvrSKkteLrzGcPXnolw2W9aXanmaQsBvzlLkVreR0Q/kWC9kF4dADllpIv0USw9ERqgbM3BhuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Computer Science\\GitHub\\gamedev-hw1\\gamedev-hw1\\gamedev-hw1\\gamedev-hw1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

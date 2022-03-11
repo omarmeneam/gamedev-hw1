@@ -1,0 +1,14 @@
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\bin\Debug\netcoreapp3.1\gamedev-hw1.exe
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\bin\Debug\netcoreapp3.1\gamedev-hw1.deps.json
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\bin\Debug\netcoreapp3.1\gamedev-hw1.runtimeconfig.json
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\bin\Debug\netcoreapp3.1\gamedev-hw1.runtimeconfig.dev.json
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\bin\Debug\netcoreapp3.1\gamedev-hw1.dll
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\bin\Debug\netcoreapp3.1\gamedev-hw1.pdb
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\obj\Debug\netcoreapp3.1\gamedev-hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\obj\Debug\netcoreapp3.1\gamedev-hw1.AssemblyInfoInputs.cache
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\obj\Debug\netcoreapp3.1\gamedev-hw1.AssemblyInfo.cs
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\obj\Debug\netcoreapp3.1\gamedev-hw1.csproj.CoreCompileInputs.cache
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\obj\Debug\netcoreapp3.1\gamedev-hw1.dll
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\obj\Debug\netcoreapp3.1\gamedev-hw1.pdb
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\obj\Debug\netcoreapp3.1\gamedev-hw1.genruntimeconfig.cache
+C:\Computer Science\GitHub\gamedev-hw1\gamedev-hw1\gamedev-hw1\obj\Debug\netcoreapp3.1\gamedev-hw1.csproj.AssemblyReference.cache
